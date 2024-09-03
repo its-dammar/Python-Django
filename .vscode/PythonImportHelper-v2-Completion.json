@@ -1,0 +1,20 @@
+[
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "Learning-1.hello",
+        "description": "Learning-1.hello",
+        "peekOfCode": "x = float(input(\"Enter a number for x: \"))\ny = float(input(\"Enter a number for y: \"))\nif x == y:\n    print(\"x and y are equal\")\n    if y != 0:\n        print(\"therefore, x / y is\", x / y)\nelif x < y:\n    print(\"x is smaller\")\nelse:\n    print(\"y is smaller\")",
+        "detail": "Learning-1.hello",
+        "documentation": {}
+    },
+    {
+        "label": "y",
+        "kind": 5,
+        "importPath": "Learning-1.hello",
+        "description": "Learning-1.hello",
+        "peekOfCode": "y = float(input(\"Enter a number for y: \"))\nif x == y:\n    print(\"x and y are equal\")\n    if y != 0:\n        print(\"therefore, x / y is\", x / y)\nelif x < y:\n    print(\"x is smaller\")\nelse:\n    print(\"y is smaller\")\nprint(\"thanks!\")",
+        "detail": "Learning-1.hello",
+        "documentation": {}
+    }
+]
